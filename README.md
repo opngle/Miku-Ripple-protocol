@@ -24,7 +24,8 @@ Individual Layer: Greedy Incentive
 The system acknowledges the "Physical Instinct" of self-interest. Through smart contracts, an individual’s rewards (R_i) are directly correlated to the Negentropy (\Delta I_i) they contribute.
 Structural Layer: Dynamic Equity
 Inspired by the Shanxi Merchants (Jinshang), we implement "Human Shares" (身股). Power and resources are not static but flow toward those who maintain high-efficiency information output.
-V = \sum_{i=1}^{n} (I_i - \Delta E_i)
+V = \sum_{i=1}^{n} (I_i - \Delta E_i) <img width="240" height="92" alt="2026-01-29 " src="https://github.com/user-attachments/assets/d7994421-cfa4-4c2c-8fc3-10c2ba36a5e0" />
+
 Where V is System Value, I is Information, and E is Energy Cost.
 5. Risk Management: The Antifragile Shield
 In an information-centric world, "Black Swan" events are inevitable. We build for Antifragility.
@@ -33,8 +34,7 @@ Slashing Mechanism: Fraud is treated as "High-Entropy Noise." The system automat
 Information Cooling: Using Landauer’s Principle (E \ge kT \ln 2) to ensure that "Garbage Data" self-destructs due to the thermal cost of its own existence.
 6. The Genesis Seed
 The system begins with a high-entropy beacon, a source of pure potential:
-f2223365ab28572c505bba754178f0e094a8ac4791dec22e5e658a4515bcb7fb //generate by openssl rand<img width="240" height="92" alt="2026-01-29 " src="https://github.com/user-attachments/assets/d7994421-cfa4-4c2c-8fc3-10c2ba36a5e0" />
-
+f2223365ab28572c505bba754178f0e094a8ac4791dec22e5e658a4515bcb7fb //generate by openssl rand
 "Consciousness is the sampling of information; Symbiosis is the resistance to entropy."
 Conclusion
 We are moving from a world of "Managing Wealth" to a world of "Managing Reality's Clarity." When the old, high-entropy financial systems collapse under their own complexity, this decentralized, information-anchored symbiosis will remain as the only viable operating system for a multi-dimensional civilization.
