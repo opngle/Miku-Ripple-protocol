@@ -1,0 +1,16 @@
+# --- System Garbage (Entropy) ---
+.DS_Store
+Thumbs.db
+*.swp
+
+# --- Credentials (Privacy is the boundary of order) ---
+.env
+*.pem
+private.key
+/config/secrets.json
+
+# --- Runtime & Build ---
+/node_modules
+/dist
+/build
+*.log
